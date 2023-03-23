@@ -1,0 +1,12 @@
+/target/
+/.idea/
+/allure-results/*
+/allure-report/*
+/log/*
+/screenshots/*
+/drivers/*
+automation.iml
+*.iml
+*.DS_Store
+*.project
+*.settings/
