@@ -21,7 +21,7 @@ public class DriverTarget {
 
        // capabilities.setCapability("appPackage","com.bak.mnr.calculatrice");
 
-        //apabilities.setCapability("appActivity", "MainActivity");
+        // apabilities.setCapability("appActivity", "MainActivity");
         capabilities.setCapability("avd","pixel3");
         capabilities.setCapability("avd.timeout",280);
 
