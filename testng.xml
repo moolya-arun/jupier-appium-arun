@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test MyDemo  demo app">
+    <parameter name="platformName" value="Android"></parameter>
+    <parameter name="platformVersion" value="11.0"></parameter>
+    <parameter name="udid" value="emulator-5554"></parameter>
+    <test name="LoginTest">
+        <classes>
+            <class name="com.moolya.TestClass1"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
